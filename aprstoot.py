@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import  sqlite3, socket, hashlib, os, re, datetime, atexit
+import  sqlite3, socket, hashlib, sys, os, re, datetime, atexit
 from mastodon import Mastodon
 
 # First the constants
