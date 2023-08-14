@@ -30,6 +30,7 @@ The second thing I learned with the original script was that ACK is sometimes no
 * `hashlib` - creating message digests for deduplication
 * `Mastodon.py` - posting messages to Mastodon
 * `os` - checking the existence of Mastodon secret files
+* `sys` - for sys.exit()
 * `atexit` - cleaning up connections at the exit
 
 ## Configuration
