@@ -1,10 +1,10 @@
 # APRStoot
 Python script for sending messages from the amateur radio Automatic Packet Reporting System (APRS) network to Mastodon.
 
-## Brief history (because nobody really cares)
+## A brief history (because nobody really cares)
 Several years ago, I created a PHP script that was able to retrieve direct messages from APRS-IS and post them to a guestbook on my website. Between 2020 and 2023, about three dozen such messages arrived, and then two things happened:
 * I wanted to rewrite the script from PHP to Python.
-* Because guestbooks are way too 90's, I decided to target messages to the federated Mastodon social network.
+* Because guestbooks are way too 1990s, I decided to target messages to the federated Mastodon social network.
 
 So I considered everything I learned during that time about APRS-IS and APRStoot came into being.
 
